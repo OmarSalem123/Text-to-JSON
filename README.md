@@ -4,6 +4,7 @@ http://localhost:3000/api/json
 Method: POST
 
 Input example 
+
 {
     "data":"Hello everyone I'm Omar and I'm 24 years old I live in Cairo",
     "format": {
@@ -14,6 +15,7 @@ Input example
 }
 
 Output example 
+
 {
   "name":"Omar",
   "age":24,
